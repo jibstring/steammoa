@@ -1,3 +1,3 @@
 ## SUB PJT2
 
-### README
+### 3팀 PJT2 README
