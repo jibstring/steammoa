@@ -1,3 +1,7 @@
-## SUB PJT2
+## SUB PJT2 (0718 ~ 0722)
 
-### 3팀 PJT2 README
+### 기획
+
+### FE
+
+### BE
